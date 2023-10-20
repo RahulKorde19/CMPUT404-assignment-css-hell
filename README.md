@@ -18,7 +18,8 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Changes to HTML / References
 ============================
 
-[Course on HTMl / CSS](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
+
+Some screenshots - UofA,  Bluperint -  have also been taken from the Web and credit is due to where it has been taken from. Some CSS styles derived from w3schools.com and svg section dividers from https://www.shapedivider.app/.
 
 [Background Image](https://www.freepik.com/free-photo/vintage-grunge-paper-background_5405364.htm#query=old%20texture&position=1&from_view=keyword&track=ais)
 
@@ -28,10 +29,12 @@ Changes to HTML / References
 
 [Divstyle - dd, dt, dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
 
+[Course on HTMl / CSS](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
+
+
 [CSS Cards](https://www.w3schools.com/howto/howto_css_cards.asp)
 [CSS Lists](https://getcssscan.com/blog/how-to-remove-bullets-from-li-css)
 
-Some screenshots - UofA,  Bluperint -  have also been taken from the Web and credit is due to where it has been taken from. Some CSS styles derived from w3schools.com and svg section dividers from https://www.shapedivider.app/.
 
 
 License/Copyright
