@@ -28,7 +28,10 @@ Changes to HTML / References
 
 [Divstyle - dd, dt, dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
 
-Some screenshots - UofA,  Bluperint -  have also been taken from the Web and credit is due to where it has been taken from.
+[CSS Cards](https://www.w3schools.com/howto/howto_css_cards.asp)
+[CSS Lists](https://getcssscan.com/blog/how-to-remove-bullets-from-li-css)
+
+Some screenshots - UofA,  Bluperint -  have also been taken from the Web and credit is due to where it has been taken from. Some CSS styles derived from w3schools.com and svg section dividers from https://www.shapedivider.app/.
 
 
 License/Copyright
