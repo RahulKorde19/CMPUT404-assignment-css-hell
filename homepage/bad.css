@@ -1,0 +1,92 @@
+/* Ugly styling for the entire webpage */
+body {
+    background-color: #ffbbbb; /* Red background */
+    font-family: 'Comic Sans MS', cursive; /* Comic Sans font */
+}
+
+header {
+    background-color: #00ff00; /* Green background for the header */
+}
+
+nav {
+    background-color: #ffff00; /* Yellow background for the navigation */
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline; /* Display navigation items horizontally */
+    margin-right: 20px;
+}
+
+nav a {
+    color: #000; /* Black text color for links */
+}
+
+#hero {
+    background-color: #ffa07a; /* Light salmon background for hero section */
+}
+
+h1 {
+    color: #800080; /* Purple text color for the name */
+}
+
+p {
+    color: #000080; /* Dark blue text color for the role */
+}
+
+.social-links {
+    background-color: #ffa500; /* Orange background for social links */
+    padding: 10px;
+}
+
+.social-link {
+    margin: 10px;
+}
+
+a {
+    color: #008000; /* Green text color for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
+#about, #skills, #contact {
+    background-color: #d3d3d3; /* Light gray background for sections */
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed #000; /* Black dashed border */
+}
+
+.container {
+    font-family: 'Comic Sans MS', cursive; /* Comic Sans font for text */
+}
+
+.skills-list li {
+    list-style: none; /* Remove bullet points */
+    padding: 5px;
+}
+
+#experience {
+    background-color: #ffff00; /* Yellow background for the range input */
+}
+
+/* Ugly styling for the form */
+label, input, textarea, checkbox, button {
+    background-color: #ffa07a; /* Light salmon background for form elements */
+    color: #800080; /* Purple text color for form elements */
+    font-family: 'Comic Sans MS', cursive; /* Comic Sans font for form elements */
+    margin: 5px;
+    border: 2px solid #ff0000; /* Red border for form elements */
+    padding: 5px;
+}
+
+button {
+    background-color: #ff0000; /* Red background for the submit button */
+    color: #fff; /* White text color for the button */
+}
+
+button:hover {
+    background-color: #ff4500; /* Orange background for the button on hover */
+}

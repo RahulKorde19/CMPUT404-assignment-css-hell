@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ugly.css">
+    <title>Your Name - Web Developer</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="hero">
+        <div class="hero-content">
+            <h1>Your Name</h1>
+            <p>Web Developer</p>
+            <div class="social-links">
+                <div class="social-link">
+                    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+                        <img src="images/linkedin-logo.png" alt="LinkedIn">
+                    </a>
+                    <p>LinkedIn</p>
+                </div>
+                <div class="social-link">
+                    <a href="https://github.com/your-github" target="_blank">
+                        <img src="images/github-logo.png" alt="GitHub">
+                    </a>
+                    <p>GitHub</p>
+                </div>
+                <div class="social-link">
+                    <a href="your-resume.pdf" target="_blank" download>
+                        <img src="images/resume-logo.png" alt="Resume">
+                    </a>
+                    <p>Resume</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>
+                Welcome to my portfolio website. I am a passionate web developer with a strong focus on creating user-friendly and visually appealing websites.
+            </p>
+            <p>
+                I am also proud to have won the <strong>Hackathon Championship</strong> in 2022, showcasing my problem-solving skills and creativity.
+            </p>
+        </div>
+    </section>
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML/CSS</li>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>Node.js</li>
+            </ul>
+            <h3>Experience Level</h3>
+            <label for="experience">Select your experience level:</label>
+            <input type="range" id="experience" name="experience" min="1" max="5">
+            <p>Your experience level: <span id="experience-value">3</span>/5</p>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+                <label for="subscribe">Subscribe to newsletter:</label>
+                <input type="checkbox" id="subscribe" name="subscribe">
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </section>
+</body>
+</html>
